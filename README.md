@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hi,I am <a href="https://aristi.dev">Matias Zigalinis</a> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://imgur.com/vGVRnJq)">
+<img src="https://i.imgur.com/vGVRnJq.jpg">
 
 # 💫 About Me:
 👨‍💻 I am a data scientist, self-taught and constantly seeking to learn something new every day. I am passionate about artificial intelligence, emerging technologies, and their impact on modern life<br><br>🌐 Soy un científico de datos autodidacta, siempre buscando aprender algo nuevo cada día. Me apasiona la inteligencia artificial, las nuevas tecnologías y su implicancia en la vida moderna<br><br>
