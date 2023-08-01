@@ -24,7 +24,7 @@
 <p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
   <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
   <p> Host: https://ropaproductores.netlify.app</p>
-
+</div>
                                                                                       
 </td>
 
