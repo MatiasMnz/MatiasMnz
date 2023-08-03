@@ -17,37 +17,24 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">RopaProductores</h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<a href=""https://github.com/MatiasMnz/RopaProductores.git" target="_blank"><img src="https://i.imgur.com/uErKdgH.png" width="400" alt="RopaProductores"></a>
+<p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
+  <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
+  <p> Host: https://ropaproductores.netlify.app</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Data Science-VideoJuego-Pokemon</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git" target="_blank"><img src="https://i.imgur.com/57rpIQs.png" width="400" alt="Data Science"></a>
 <br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>En este trabajo nuestro objetivo principal fue utilizar técnicas avanzadas de análisis de datos, aprendizaje automático y visualización para obtener valiosos conocimientos sobre los Pokémon y descubrir estrategias efectivas para vencer a los oponentes en el juego, A lo largo de este proceso, exploramos detalladamente un conjunto de datos completo de Pokémon, donde nos enfocamos en aspectos clave como las estadísticas de los Pokémon, su distribución, correlaciones y características distintivas, una de las ideas adicionales de este trabajo es demostrar la potencia y versatilidad de la Ciencia de Datos aplicada a un entorno de entretenimiento, mostrando cómo esta disciplina puede llevarnos a superar obstáculos y alcanzar nuevas metas en cualquier ámbito de la vida moderna </p>
+  </p>https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git</p>
 </div>                                                             
 </table>                                                                                 
 </div>
@@ -55,37 +42,23 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Data Science-Nuclear Explosions </h3>
 <div align="center">
-<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
-<p>
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/vJapzH_46a8" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
-</p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
+<a href="https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git"_blank"><img src="https://i.imgur.com/3la3gvj.png" width="400" alt="Data Science"></a>
+<p>En este trabajo, nos sumergimos en un análisis exhaustivo de datos relacionados con explosiones nucleares, empleando avanzadas técnicas de análisis, aprendizaje automático y visualización. Nuestra misión principal fue desentrañar patrones y conocimientos fundamentales sobre estas explosiones, así como descubrir enfoques estratégicos para abordar su impacto y consecuencias. A lo largo de este proceso, examinamos minuciosamente un conjunto de datos amplio y detallado, focalizándonos en aspectos críticos como las características de las explosiones, su distribución geográfica y temporal, y relaciones significativas entre variables. Además, este trabajo busca resaltar la capacidad transformadora del Data Science en la comprensión y manejo de fenómenos complejos, demostrando su potencial para guiar decisiones informadas y abrir nuevas vías de investigación en un contexto tan crucial como el de las explosiones nucleares.</p>
+  </p>https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">Data Science-Fortune 500 Companies</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/MatiasMnz/Data-Science-Fortune500Company.git" target="_blank"><img src="https://i.imgur.com/WcasN2b.png" width="400" alt="Data Science"></a>
 <br>
-<p>
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
-<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
-</p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>En este trabajo, llevamos a cabo un análisis integral de datos empresariales utilizando metodologías avanzadas de Data Science, aprendizaje automático y visualización. Nuestro objetivo central consistió en desvelar patrones e ideas fundamentales dentro de datos financieros de empresas Fortune 500, además de idear enfoques estratégicos para orientar decisiones informadas. A lo largo de este proceso, exploramos a fondo un extenso y detallado conjunto de datos, focalizándonos en aspectos críticos como las relaciones entre los ingresos, beneficios y el valor de mercado, así como la influencia de CEOs femeninas en distintos sectores. Este trabajo resalta el poder transformador del Data Science en la comprensión y dirección de dinámicas empresariales complejas, evidenciando su capacidad para guiar estratégicamente y ofrecer nuevos horizontes de exploración en el contexto empresarial actual.</p>
+</p>https://github.com/MatiasMnz/Data-Science-Fortune500Company.git</p>
 </div>                                                             
 </table>                                                                                 
 </div>
