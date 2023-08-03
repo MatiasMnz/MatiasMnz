@@ -40,34 +40,33 @@
 </p>En este trabajo nuestro objetivo principal fue utilizar técnicas avanzadas de análisis de datos, aprendizaje automático y visualización para obtener valiosos conocimientos sobre los Pokémon y descubrir estrategias efectivas para vencer a los oponentes en el juego, A lo largo de este proceso, exploramos detalladamente un conjunto de datos completo de Pokémon, donde nos enfocamos en aspectos clave como las estadísticas de los Pokémon, su distribución, correlaciones y características distintivas, una de las ideas adicionales de este trabajo es demostrar la potencia y versatilidad de la Ciencia de Datos aplicada a un entorno de entretenimiento, mostrando cómo esta disciplina puede llevarnos a superar obstáculos y alcanzar nuevas metas en cualquier ámbito de la vida moderna </p>
   </p>https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git</p>
 </div>                                                             
-                                                                                
-</div>
-
+<table>
 <tr>
 <td width="50%">
-<h3 align="center">Data Science - Nuclear Explosion</h3>
+<h3 align="center">RopaProductores</h3>
 <div align="center">
-<a href="https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git"><img src="https://i.imgur.com/3la3gvj.png" width="400" alt="Nuclear Explosion"></a>
+<a href=""https://github.com/MatiasMnz/RopaProductores.git"><img src="https://i.imgur.com/uErKdgH.png" width="400" alt="RopaProductores"></a>
 <p>
 </p>
-<p>En este trabajo, nos sumergimos en un análisis exhaustivo de datos relacionados con explosiones nucleares, empleando avanzadas técnicas de análisis, aprendizaje automático y visualización. Nuestra misión principal fue desentrañar patrones y conocimientos fundamentales sobre estas explosiones, así como descubrir enfoques estratégicos para abordar su impacto y consecuencias. A lo largo de este proceso, examinamos minuciosamente un conjunto de datos amplio y detallado, focalizándonos en aspectos críticos como las características de las explosiones, su distribución geográfica y temporal, y relaciones significativas entre variables. Además, este trabajo busca resaltar la capacidad transformadora del Data Science en la comprensión y manejo de fenómenos complejos, demostrando su potencial para guiar decisiones informadas y abrir nuevas vías de investigación en un contexto tan crucial como el de las explosiones nucleares. </p>
-  <p>https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git</p>
- 
-</div>
-</div>
-
-<tr>
-<td width="50%">
-<h3 align="center">Data Science - Nuclear Explosion</h3>
-<div align="center">
-<a href="https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git"><img src="https://i.imgur.com/3la3gvj.png" width="400" alt="Nuclear Explosion"></a>
-<p>
-</p>
-<p>En este trabajo, nos sumergimos en un análisis exhaustivo de datos relacionados con explosiones nucleares, empleando avanzadas técnicas de análisis, aprendizaje automático y visualización. Nuestra misión principal fue desentrañar patrones y conocimientos fundamentales sobre estas explosiones, así como descubrir enfoques estratégicos para abordar su impacto y consecuencias. A lo largo de este proceso, examinamos minuciosamente un conjunto de datos amplio y detallado, focalizándonos en aspectos críticos como las características de las explosiones, su distribución geográfica y temporal, y relaciones significativas entre variables. Además, este trabajo busca resaltar la capacidad transformadora del Data Science en la comprensión y manejo de fenómenos complejos, demostrando su potencial para guiar decisiones informadas y abrir nuevas vías de investigación en un contexto tan crucial como el de las explosiones nucleares. </p>
-  <p>https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git</p>
- 
+<p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
+  <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
+  <p> Host: https://ropaproductores.netlify.app</p>
 </div>
                                                                                       
 </td>
+
+<td width="50%">
+               <br>
+<h3 align="center">Data Science-VideoJuego-Pokemon</h3>
+<div align="center">                                       
+<a href="https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git" target="_blank"><img src="https://i.imgur.com/57rpIQs.png" width="400" alt="Data Science"></a>
+<br>
+<p>
+</p>
+</p>En este trabajo nuestro objetivo principal fue utilizar técnicas avanzadas de análisis de datos, aprendizaje automático y visualización para obtener valiosos conocimientos sobre los Pokémon y descubrir estrategias efectivas para vencer a los oponentes en el juego, A lo largo de este proceso, exploramos detalladamente un conjunto de datos completo de Pokémon, donde nos enfocamos en aspectos clave como las estadísticas de los Pokémon, su distribución, correlaciones y características distintivas, una de las ideas adicionales de este trabajo es demostrar la potencia y versatilidad de la Ciencia de Datos aplicada a un entorno de entretenimiento, mostrando cómo esta disciplina puede llevarnos a superar obstáculos y alcanzar nuevas metas en cualquier ámbito de la vida moderna </p>
+  </p>https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git</p>
+</div>   
+  <table>
+
                                                                   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
