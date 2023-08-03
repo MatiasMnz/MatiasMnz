@@ -51,7 +51,7 @@
 <p>
 </p>
 <p>En este trabajo, nos sumergimos en un análisis exhaustivo de datos relacionados con explosiones nucleares, empleando avanzadas técnicas de análisis, aprendizaje automático y visualización. Nuestra misión principal fue desentrañar patrones y conocimientos fundamentales sobre estas explosiones, así como descubrir enfoques estratégicos para abordar su impacto y consecuencias. A lo largo de este proceso, examinamos minuciosamente un conjunto de datos amplio y detallado, focalizándonos en aspectos críticos como las características de las explosiones, su distribución geográfica y temporal, y relaciones significativas entre variables. Además, este trabajo busca resaltar la capacidad transformadora del Data Science en la comprensión y manejo de fenómenos complejos, demostrando su potencial para guiar decisiones informadas y abrir nuevas vías de investigación en un contexto tan crucial como el de las explosiones nucleares. </p>
-  <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git </p>
+  <p>https://github.com/MatiasMnz/RopaProductores.git</p>
  
 </div>
                                                                                       
