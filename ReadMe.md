@@ -54,6 +54,23 @@
   <p>https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git</p>
  
 </div>
+</div>
+
+<tr>
+<td width="50%">
+<h3 align="center">Data Science - Nuclear Explosion</h3>
+<div align="center">
+<a href="https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git"><img src="https://i.imgur.com/3la3gvj.png" width="400" alt="Nuclear Explosion"></a>
+<p>
+</p>
+<p>En este trabajo, nos sumergimos en un análisis exhaustivo de datos relacionados con explosiones nucleares, empleando avanzadas técnicas de análisis, aprendizaje automático y visualización. Nuestra misión principal fue desentrañar patrones y conocimientos fundamentales sobre estas explosiones, así como descubrir enfoques estratégicos para abordar su impacto y consecuencias. A lo largo de este proceso, examinamos minuciosamente un conjunto de datos amplio y detallado, focalizándonos en aspectos críticos como las características de las explosiones, su distribución geográfica y temporal, y relaciones significativas entre variables. Además, este trabajo busca resaltar la capacidad transformadora del Data Science en la comprensión y manejo de fenómenos complejos, demostrando su potencial para guiar decisiones informadas y abrir nuevas vías de investigación en un contexto tan crucial como el de las explosiones nucleares. </p>
+  <p>https://github.com/MatiasMnz/Data-Science-Nuclear-Explosion.git</p>
+ 
+</div>
+                                                                                      
+</td>
+                                                                                      
+</td>
                                                                                       
 </td>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
