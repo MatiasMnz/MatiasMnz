@@ -42,7 +42,7 @@
 </div>                                                             
                                                                                 
 </div>
-<table>
+
 <tr>
 <td width="50%">
 <h3 align="center">RopaProductores</h3>
