@@ -17,54 +17,79 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">RopaProductores</h3>
+<h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href=""https://github.com/MatiasMnz/RopaProductores.git"><img src="https://i.imgur.com/uErKdgH.png" width="400" alt="RopaProductores"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
 </p>
-<p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
-  <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
-  <p> Host: https://ropaproductores.netlify.app</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
                                                                                       
 </td>
 
 <td width="50%">
                <br>
-<h3 align="center">Data Science-VideoJuego-Pokemon</h3>
+<h3 align="center">Arquitectura MVVM</h3>
 <div align="center">                                       
-<a href="https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git" target="_blank"><img src="https://i.imgur.com/57rpIQs.png" width="400" alt="Data Science"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
 </p>
-</p>En este trabajo nuestro objetivo principal fue utilizar técnicas avanzadas de análisis de datos, aprendizaje automático y visualización para obtener valiosos conocimientos sobre los Pokémon y descubrir estrategias efectivas para vencer a los oponentes en el juego, A lo largo de este proceso, exploramos detalladamente un conjunto de datos completo de Pokémon, donde nos enfocamos en aspectos clave como las estadísticas de los Pokémon, su distribución, correlaciones y características distintivas, una de las ideas adicionales de este trabajo es demostrar la potencia y versatilidad de la Ciencia de Datos aplicada a un entorno de entretenimiento, mostrando cómo esta disciplina puede llevarnos a superar obstáculos y alcanzar nuevas metas en cualquier ámbito de la vida moderna </p>
-  </p>https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
 </div>                                                             
+</table>                                                                                 
+</div>
+<br>
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">RopaProductores</h3>
+<h3 align="center">Curso Android Básico</h3>
 <div align="center">
-<a href=""https://github.com/MatiasMnz/RopaProductores.git"><img src="https://i.imgur.com/uErKdgH.png" width="400" alt="RopaProductores"></a>
+<a href=""https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://i.imgur.com/Jji0CIE.jpg" width="400" alt="Curso básico android"></a>
 <p>
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/vJapzH_46a8" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
 </p>
-<p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
-  <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
-  <p> Host: https://ropaproductores.netlify.app</p>
+<p>Aprende a programar aplicaciones <strong>Android con Kotlin desde cero</strong> - En este curso aprenderás todo lo necesario ya que no es necesario ningún conocimiento previo. Curso <strong>GRATUITO de 12 horas</strong> con todo el código disponible para descargar.</p>
 </div>
-</div>                                                             
-<table>
-<tr>
+                                                                                      
+</td>
+
 <td width="50%">
-<h3 align="center">RopaProductores</h3>
-<div align="center">
-<a href=""https://github.com/MatiasMnz/RopaProductores.git"><img src="https://i.imgur.com/uErKdgH.png" width="400" alt="RopaProductores"></a>
+               <br>
+<h3 align="center">Arquitectura MVVM</h3>
+<div align="center">                                       
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
 <p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
 </p>
-<p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
-  <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
-  <p> Host: https://ropaproductores.netlify.app</p>
+</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</div>                                                             
+</table>                                                                                 
 </div>
+<br>
 
                                                                   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
