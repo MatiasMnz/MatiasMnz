@@ -2,7 +2,7 @@
 <h1 align="center">Hi,I am <a href="https://aristi.dev">Matias Zigalini</a> 👋</h1>
 </div>
 
-<a href="https://imgur.com/2aRhBoF"></a>
+![Descripción de la imagen](https://imgur.com/2aRhBoF)
 
 # 💫 About Me:
 👨‍💻 I am a young enthusiastic video game developer, always looking to learn something new every day. I am passionate about the world of video game development, what they generate and retroactive activity between the game and the player.<br><br>🌐 Soy un joven entusiasta Desarrollador de videojuegos, siempre buscando aprender algo nuevo cada día. Me apasiona el mundo del desarrollo de videojuegos, lo que estos generan y actividad retroactiva entre el juego y el jugador.<br><br>
