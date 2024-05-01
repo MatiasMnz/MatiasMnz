@@ -21,7 +21,7 @@ Game Developer | C++ | Unreal Engine | Computing Engineering Student | Power BI 
 <td width="50%">
 <h3 align="center">RopaProductores</h3>
 <div align="center">
-<a href=""https://github.com/MatiasMnz/RopaProductores.git" target="_blank"><img src="https://imgur.com/a/9usNRAF" width="400" alt="RopaProductores"></a>
+<a href=""https://github.com/MatiasMnz/RopaProductores.git" target="_blank"><img src="https://i.imgur.com/uErKdgH.png" width="400" alt="RopaProductores"></a>
 <p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
   <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
   <p> Host: https://ropaproductores.netlify.app</p>
@@ -33,7 +33,7 @@ Game Developer | C++ | Unreal Engine | Computing Engineering Student | Power BI 
                <br>
 <h3 align="center">Data Science-VideoJuego-Pokemon</h3>
 <div align="center">                                       
-<a href="https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git" target="_blank"><img src="https://imgur.com/a/jXQOpz6.png" width="400" alt="Data Science"></a>
+<a href="https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git" target="_blank"><img src="https://i.imgur.com/WNzCoNj.png" width="400" alt="Data Science"></a>
 <br>
 </p>En este trabajo nuestro objetivo principal fue utilizar técnicas avanzadas de análisis de datos, aprendizaje automático y visualización para obtener valiosos conocimientos sobre los Pokémon y descubrir estrategias efectivas para vencer a los oponentes en el juego, A lo largo de este proceso, exploramos detalladamente un conjunto de datos completo de Pokémon, donde nos enfocamos en aspectos clave como las estadísticas de los Pokémon, su distribución, correlaciones y características distintivas, una de las ideas adicionales de este trabajo es demostrar la potencia y versatilidad de la Ciencia de Datos aplicada a un entorno de entretenimiento, mostrando cómo esta disciplina puede llevarnos a superar obstáculos y alcanzar nuevas metas en cualquier ámbito de la vida moderna </p>
   </p>https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git</p>
