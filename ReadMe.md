@@ -21,7 +21,7 @@ Game Developer | C++ | Unreal Engine | Computing Engineering Student | Power BI 
 <td width="50%">
 <h3 align="center">Awaken</h3>
 <div align="center">
-<a href=""https://github.com/MatiasMnz/Awaken.git" target="_blank"><img src="https://i.imgur.com/NKojE8j.png" width="400" alt="Awaken"></a>
+<a href="https://github.com/MatiasMnz/Awaken.git" target="_blank"><img src="https://i.imgur.com/NKojE8j.png" width="400" alt="Awaken"></a>
 <p>Awaken </p>
   <p> Codigo: https://github.com/MatiasMnz/Awaken.git</p>
   <p> Gameplay ilustrativo : https://youtu.be/BbjqEK1nuDk </p>
