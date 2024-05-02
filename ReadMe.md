@@ -24,11 +24,11 @@ Game Developer | C++ | Unreal Engine | Computing Engineering Student | Power BI 
 <a href="https://github.com/MatiasMnz/Awaken.git" target="_blank"><img src="https://i.imgur.com/NKojE8j.png" width="400" alt="Awaken"></a>
 <p>Awaken </p>
   <p> Codigo: https://github.com/MatiasMnz/Awaken.git</p>
-  <p> Gameplay ilustrativo : https://youtu.be/BbjqEK1nuDk </p>
+  <p> Gameplay Demostrativo : https://youtu.be/BbjqEK1nuDk </p>
 
 ¡Bienvenido a Awaken!
 
-Awaken te hara encargar a un soldado robot el cual esta encargado de liberar una base secreta luego de que se hubiera perdido la comucacion con todo un peloton, sin embargo al llegar a ella es peor de lo que esperabas ya que otros como tu la han tomado y te tocara desvelar el porque, Desarrollado con Unreal Engine 5 y escrito en C++, este juego ofrece una experiencia de combate intensa y llena de acción que te dejará sin aliento.
+Awaken te hara encarnar a un soldado robot el cual esta encargado de liberar una base secreta luego de que se hubiera perdido la comucacion con todo un peloton, sin embargo al llegar a ella es peor de lo que esperabas ya que otros como tu la han tomado y te tocara desvelar el porque, Desarrollado con Unreal Engine 5 y escrito en C++, este juego ofrece una experiencia de combate intensa y llena de acción que te dejará sin aliento.
 Características principales:
 Combate Robótico en Tercera Persona: Embarcate en una guerra robotica sin cuartel. Utiliza tus habilidades como super soldado para poder enfrentarte a todos aquellos que se crucen en tu camino
 Enemigos Controlados por IA Avanzada: Enfréntate a una variedad de enemigos robóticos con comportamientos y tácticas gracias a un sistema de IA que les permite adaptarse dinámicamente a tu estilo de juego. Prepárate para enfrentarte a enemigos inteligentes y despiadados que te pondrán a prueba en cada encuentro.
@@ -44,7 +44,7 @@ Ambientes Futuristas y Detalles Realistas: Gracias al haber sido desarrolado en 
 <a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/lLKUYRt.png" width="400" alt="Purgatory"></a>
 <br>
 <p> Codigo: https://github.com/MatiasMnz/Purgatory.git </p>
-</p> Gameplay Ilustrativo : https://youtu.be/Q-1NZiWAgoU </p>
+</p> Gameplay Demostrativo : https://youtu.be/Q-1NZiWAgoU </p>
 </p> ¡Bienvenido a Purgatory!
 Purgatory es un escalofriante juego de puzzles de terror que te sumerge en una prision siniestra llena de peligros y pasadisos secretos, Desarrollado con Unreal Engine 5 y escrito en C++, este juego te desafiará a explorar los recovecos más profundos de tu mente mientras intentas recuperar tu alma y salir desde la mismisima penumbra.
 Características principales Generales:
@@ -66,7 +66,7 @@ Exploración Profunda: Explora cada rincón del laberinto en busca de pistas y o
 <a href="https://github.com/MatiasMnz/Castel-Wars.git"_blank"><img src="https://i.imgur.com/U5Htzea.png" width="400" alt="Castel Wars"></a>
   <br>
 <p> Codigo: https://github.com/MatiasMnz/Castel-Wars.git </p>
-</p> Gameplay Ilustrativo : https://youtu.be/Q-1NZiWAgoU </p>
+</p> Gameplay Demostrativo : https://youtu.be/Q-1NZiWAgoU </p>
 </p>
 Bienvenido a CastelWars
 CastelWars te transportara directamente a una guerra sin cuartel, donde te adentraras en un tanque para liberar a una ciudad del mal. Desarrollado con Unreal Engine 5 y escrito en C++, este juego te sumerge en un emocionante conflicto donde la habilidad y el coraje son la clave para la victoria.
@@ -86,7 +86,7 @@ Modos de Juego: Elimina a todos las torretas para ganar la partida , sin embargo
 <a href="https://github.com/MatiasMnz/Temple-Race.git" target="_blank"><img src="https://i.imgur.com/3t7mUCj.png" width="400" alt="Temple Race"></a>
 <br>
 <p> Codigo: https://github.com/MatiasMnz/Temple-Race.git </p>
-</p> Gameplay Ilustrativo : https://www.youtube.com/watch?v=uKWiewg1yto&t=5s&ab_channel=MatiasZigalini </p>
+</p> Gameplay Demostrativo : https://www.youtube.com/watch?v=uKWiewg1yto&t=5s&ab_channel=MatiasZigalini </p>
 </p>
 Bienvenido a TempleRace
 Temple Race es un divertido juego de plataformas desarrollado con Unreal Engine 5 y escrito en C++. Adentrate en un mundo colorido y perdido entre las nubes mientras saltas, corres y te deslizas a través de desafiantes desafios suspendidos en el cielo, cualquier error puede ser tu final!
