@@ -66,7 +66,7 @@ Exploración Profunda: Explora cada rincón del laberinto en busca de pistas y o
 <a href="https://github.com/MatiasMnz/Castel-Wars.git"_blank"><img src="https://i.imgur.com/U5Htzea.png" width="400" alt="Castel Wars"></a>
   <br>
 <p> Codigo: https://github.com/MatiasMnz/Castel-Wars.git </p>
-</p> Gameplay Demostrativo : https://youtu.be/Q-1NZiWAgoU </p>
+</p> Gameplay Demostrativo : https://www.youtube.com/watch?v=64imrc1fgb8&ab_channel=MatiasZigalini </p>
 </p>
 Bienvenido a CastelWars
 CastelWars te transportara directamente a una guerra sin cuartel, donde te adentraras en un tanque para liberar a una ciudad del mal. Desarrollado con Unreal Engine 5 y escrito en C++, este juego te sumerge en un emocionante conflicto donde la habilidad y el coraje son la clave para la victoria.
