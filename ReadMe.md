@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matyzigalini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiaszigalini)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCwxLzub9fLh6FW43DAsbDjg) 
 
 # 💻 Tech Stack:
-Game Developer | C++ | Unreal Engine | Computing Engineering Student | Power BI | Python | Blueprint | SQL | Scikit-Learn | Pandas | Numpy | Inteligencia Artificial | AI | Game Design | IA | UMG | Data Engineer
+Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C# | Unity | Python | Blueprint | SQL | Inteligencia Artificial | AI | Game Design | IA | UMG
 ## Juegos / Games
 <table>
 <tr>
