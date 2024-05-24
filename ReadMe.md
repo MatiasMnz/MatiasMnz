@@ -33,10 +33,10 @@ Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C#
 <br>
 <h3 align="center">Escape Chess</h3>
 <div align="center">                                       
-<a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/yvgQzhm.png" width="400" alt="EscapeChess"></a>
+<a href="https://github.com/MatiasMnz/EscapeChess.git" target="_blank"><img src="https://i.imgur.com/yvgQzhm.png" width="400" alt="EscapeChess"></a>
 <br>
-<p> Codigo: https://github.com/MatiasMnz/Purgatory.git </p>
-</p> Gameplay Demostrativo : https://www.youtube.com/watch?v=Mcy1xt8dT0A&ab_channel=MatiasZigalini </p>
+<p> Codigo: https://github.com/MatiasMnz/EscapeChess.git </p>
+</p> Gameplay Demostrativo: https://www.youtube.com/watch?v=Mcy1xt8dT0A&ab_channel=MatiasZigalini </p>
   
 </p> ¡Bienvenido a EscapeChess!
 Descripción del Juego:
@@ -64,7 +64,7 @@ Ya sea que seas un aficionado al ajedrez o un amante de los juegos de acción y 
 <a href="https://github.com/MatiasMnz/Awaken.git" target="_blank"><img src="https://i.imgur.com/NKojE8j.png" width="400" alt="Awaken"></a>
 <p>Awaken </p>
   <p> Codigo: https://github.com/MatiasMnz/Awaken.git</p>
-  <p> Gameplay Demostrativo : https://youtu.be/BbjqEK1nuDk </p>
+  <p> Gameplay Demostrativo: https://youtu.be/BbjqEK1nuDk </p>
 
 ¡Bienvenido a Awaken!
 
@@ -84,7 +84,7 @@ Ambientes Futuristas y Detalles Realistas: Gracias al haber sido desarrolado en 
 <a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/lLKUYRt.png" width="400" alt="Purgatory"></a>
 <br>
 <p> Codigo: https://github.com/MatiasMnz/Purgatory.git </p>
-</p> Gameplay Demostrativo : https://youtu.be/Q-1NZiWAgoU </p>
+</p> Gameplay Demostrativo: https://youtu.be/Q-1NZiWAgoU </p>
 </p> ¡Bienvenido a Purgatory!
 Purgatory es un escalofriante juego de puzzles de terror que te sumerge en una prision siniestra llena de peligros y pasadisos secretos, Desarrollado con Unreal Engine 5 y escrito en C++, este juego te desafiará a explorar los recovecos más profundos de tu mente mientras intentas recuperar tu alma y salir desde la mismisima penumbra.
 Características principales Generales:
@@ -106,7 +106,7 @@ Exploración Profunda: Explora cada rincón del laberinto en busca de pistas y o
 <a href="https://github.com/MatiasMnz/Castel-Wars.git"_blank"><img src="https://i.imgur.com/U5Htzea.png" width="400" alt="Castel Wars"></a>
   <br>
 <p> Codigo: https://github.com/MatiasMnz/Castel-Wars.git </p>
-</p> Gameplay Demostrativo : https://www.youtube.com/watch?v=64imrc1fgb8&ab_channel=MatiasZigalini </p>
+</p> Gameplay Demostrativo: https://www.youtube.com/watch?v=64imrc1fgb8&ab_channel=MatiasZigalini </p>
 </p>
 Bienvenido a CastelWars
 CastelWars te transportara directamente a una guerra sin cuartel, donde te adentraras en un tanque para liberar a una ciudad del mal. Desarrollado con Unreal Engine 5 y escrito en C++, este juego te sumerge en un emocionante conflicto donde la habilidad y el coraje son la clave para la victoria.
@@ -126,12 +126,12 @@ Modos de Juego: Elimina a todos las torretas para ganar la partida , sin embargo
 <a href="https://github.com/MatiasMnz/Temple-Race.git" target="_blank"><img src="https://i.imgur.com/3t7mUCj.png" width="400" alt="Temple Race"></a>
 <br>
 <p> Codigo: https://github.com/MatiasMnz/Temple-Race.git </p>
-</p> Gameplay Demostrativo : https://www.youtube.com/watch?v=uKWiewg1yto&t=5s&ab_channel=MatiasZigalini </p>
+</p> Gameplay Demostrativo: https://www.youtube.com/watch?v=uKWiewg1yto&t=5s&ab_channel=MatiasZigalini </p>
 </p>
 Bienvenido a TempleRace
 Temple Race es un divertido juego de plataformas desarrollado con Unreal Engine 5 y escrito en C++. Adentrate en un mundo colorido y perdido entre las nubes mientras saltas, corres y te deslizas a través de desafiantes desafios suspendidos en el cielo, cualquier error puede ser tu final!
 Características principales en terminos Generales:
-Entorno Visualmente Atrativo : Realizado con la potencia grafica de unreal engine 5 en este juego con un estilo "Cartoon" nos Adentramos a un paisaje perdido en el cielo done solo abunda una agradable brisa entre las nubes y las islas sin embargo en la cima aguarda un castillo increible que posee un gran tesoro 
+Entorno Visualmente Atrativo: Realizado con la potencia grafica de unreal engine 5 en este juego con un estilo "Cartoon" nos Adentramos a un paisaje perdido en el cielo done solo abunda una agradable brisa entre las nubes y las islas sin embargo en la cima aguarda un castillo increible que posee un gran tesoro 
 Jugabilidad Adictiva: Pon a prueba tus habilidades de plataformas con niveles diseñados para desafiar la paciencia de los jugadores. Salta entre plataformas móviles, esquiva obstáculos y supera trampas para llegar a la meta.
 Movimiento : Parte de la tematica implica ser particularmente cauteloso en cada salto ya que un mal paso podria significar que vuelvas al inicio
 Desafios : Supera una variedad de desafíos únicos en Cada isla, donde se pondra a prueba que tan precisas pueden ser tus acciones
