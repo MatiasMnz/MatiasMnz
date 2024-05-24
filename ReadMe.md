@@ -43,6 +43,8 @@ Ambientes Futuristas y Detalles Realistas: Gracias al haber sido desarrolado en 
 <p>Awaken </p>
   <p> Codigo: https://github.com/MatiasMnz/Awaken.git</p>
   <p> Gameplay Demostrativo : https://youtu.be/BbjqEK1nuDk </p>
+                                                                                      
+</td>
 
 ¡Bienvenido a Awaken!
 
