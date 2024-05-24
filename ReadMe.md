@@ -17,8 +17,6 @@
 Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C# | Unity | Python | Blueprint | SQL | Inteligencia Artificial | AI | Game Design | IA | UMG
 ## Juegos / Games
 <table>
- <table>
-<tr>
 <td width="50%">
 <h3 align="center">
 Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
