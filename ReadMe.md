@@ -16,29 +16,7 @@
 # 💻 Tech Stack:
 Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C# | Unity | Python | Blueprint | SQL | Inteligencia Artificial | AI | Game Design | IA | UMG
 ## Juegos / Games
-<table>
-<td width="50%">
-<br>
-<h3 align="center">Escape Chess</h3>
-<div align="center">                                       
-<a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/yaXi8DU.png" width="400" alt="EscapeChess"></a>
-<br>
-<p> Codigo: https://github.com/MatiasMnz/Purgatory.git </p>
-</p> Gameplay Demostrativo : https://youtu.be/Q-1NZiWAgoU </p>
-</p> !Bienvenido a EscapeChess¡
-Descripción del Juego:
-Escape Chess es un juego de aventura y desafios desarrollado en C# utilizando Unity. Inspirado en el clásico juego de ajedrez, Escape Chess transforma el tradicional tablero de ajedrez en un campo atraviesa lleno de desafíos y peligros donde el objetivo principal es lograr escapar
-Temática y Jugabilidad:
-En EscapeChess, el jugador asume el control de una Torre, una de las piezas más emblemáticas del ajedrez. Sin embargo, en lugar de participar en una partida tradicional, el jugador debe guiar a la Torre a través de un tablero de ajedrez laberíntico, evitando las amenazas y obstáculos representados por las demás piezas del ajedrez, cada una con sus movimientos y patrones.
-Objetivo:
-El objetivo principal del juego es escapar del tablero antes de ser capturado por las piezas enemigas. El jugador debe usar su ingenio y reflejos para esquivar y superar los desafíos que presentan las otras piezas.
-Ambientación Caracteristica:
-Un tablero de ajedrez tridimensional con piezas estilizadas y efectos visuales de camara para no perder la esencia del juego tradicional y elegancia del ajedrez clásico mientras aportan una atmósfera de tensión y aventura.
-Mecánicas de Movimiento y Evasión:
-Control intuitivo de la Torre con opciones de movimiento horizontal y vertical, permitiendo al jugador planificar sus rutas de escape mientras evita las rutas de ataque de las piezas enemigas.
-Ya sea que seas un aficionado al ajedrez o un amante de los juegos de acción y aventura, este juego te proporcionará un nivel divertido y desafiante ¿Estás listo para aceptar el reto y guiar a la Torre a su libertad?.</p>
-</div>                                                             
-</table>                                                                                 
+<table>                                                                                                                   
 </div>
 <br>
 <td width="50%">
