@@ -33,11 +33,12 @@ Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C#
 <br>
 <h3 align="center">Escape Chess</h3>
 <div align="center">                                       
-<a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/yaXi8DU.png" width="400" alt="EscapeChess"></a>
+<a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/yvgQzhm.png" width="400" alt="EscapeChess"></a>
 <br>
 <p> Codigo: https://github.com/MatiasMnz/Purgatory.git </p>
-</p> Gameplay Demostrativo : https://youtu.be/Q-1NZiWAgoU </p>
-</p> !Bienvenido a EscapeChess¡
+</p> Gameplay Demostrativo : https://www.youtube.com/watch?v=Mcy1xt8dT0A&ab_channel=MatiasZigalini </p>
+  
+</p> ¡Bienvenido a EscapeChess!
 Descripción del Juego:
 Escape Chess es un juego de aventura y desafios desarrollado en C# utilizando Unity. Inspirado en el clásico juego de ajedrez, Escape Chess transforma el tradicional tablero de ajedrez en un campo atraviesa lleno de desafíos y peligros donde el objetivo principal es lograr escapar
 Temática y Jugabilidad:
