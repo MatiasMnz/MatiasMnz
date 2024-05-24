@@ -18,6 +18,24 @@ Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C#
 ## Juegos / Games
 <table>                                                                                                                   
 </div>
+<td width="50%">
+<h3 align="center">Awaken</h3>
+<div align="center">
+<a href="https://github.com/MatiasMnz/Awaken.git" target="_blank"><img src="https://i.imgur.com/NKojE8j.png" width="400" alt="Awaken"></a>
+<p>Awaken </p>
+  <p> Codigo: https://github.com/MatiasMnz/Awaken.git</p>
+  <p> Gameplay Demostrativo : https://youtu.be/BbjqEK1nuDk </p>
+
+¡Bienvenido a Awaken!
+
+Awaken te hara encarnar a un soldado robot el cual esta encargado de liberar una base secreta luego de que se hubiera perdido la comucacion con todo un peloton, sin embargo al llegar a ella es peor de lo que esperabas ya que otros como tu la han tomado y te tocara desvelar el porque, Desarrollado con Unreal Engine 5 y escrito en C++, este juego ofrece una experiencia de combate intensa y llena de acción que te dejará sin aliento.
+Características principales:
+Combate Robótico en Tercera Persona: Embarcate en una guerra robotica sin cuartel. Utiliza tus habilidades como super soldado para poder enfrentarte a todos aquellos que se crucen en tu camino
+Enemigos Controlados por IA Avanzada: Enfréntate a una variedad de enemigos robóticos con comportamientos y tácticas gracias a un sistema de IA que les permite adaptarse dinámicamente a tu estilo de juego. Prepárate para enfrentarte a enemigos inteligentes y despiadados que te pondrán a prueba en cada encuentro.
+Ambientes Futuristas y Detalles Realistas: Gracias al haber sido desarrolado en Unreal Engine podras disfrutar de vistas agradables debido a su alta calidad grafica</p>
+</div>
+                                                                                      
+</td>
 <br>
 <td width="50%">
 <br>
