@@ -19,10 +19,12 @@ Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C#
 <table>                                                                                                                   
 </div>
 <td width="50%">
-<h3 align="center">Awaken</h3>
+<h3 align="center">Coming Soon</h3>
 <div align="center">
 <a href="www.linkedin.com/in/matiaszigalini" target="_blank"><img src="https://i.imgur.com/AUPnUIm.png" width="400" alt="Coming Soon"></a>
-<p>Coming Soon </p>
+<p> 
+  <h1>Proximamente</h1>
+</p>
 </p>
 </div>                                                                                   
 </td>
