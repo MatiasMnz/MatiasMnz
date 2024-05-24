@@ -18,25 +18,25 @@ Game Developer | C++ | Unreal Engine | Estudiante De Ingenieria Informatica | C#
 ## Juegos / Games
 <table>
 <td width="50%">
-</td>
-
-<td width="50%">
-               <br>
-<h3 align="center">Purgatory</h3>
+<br>
+<h3 align="center">Escape Chess</h3>
 <div align="center">                                       
-<a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/lLKUYRt.png" width="400" alt="Purgatory"></a>
+<a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/yaXi8DU.png" width="400" alt="EscapeChess"></a>
 <br>
 <p> Codigo: https://github.com/MatiasMnz/Purgatory.git </p>
 </p> Gameplay Demostrativo : https://youtu.be/Q-1NZiWAgoU </p>
-</p> ¡Bienvenido a Purgatory!
-Purgatory es un escalofriante juego de puzzles de terror que te sumerge en una prision siniestra llena de peligros y pasadisos secretos, Desarrollado con Unreal Engine 5 y escrito en C++, este juego te desafiará a explorar los recovecos más profundos de tu mente mientras intentas recuperar tu alma y salir desde la mismisima penumbra.
-Características principales Generales:
-Atmósfera Inmersiva de Terror: Adentrate en esta prision llena de vestigios de oscuros sucesos, donde cada rincón está impregnado de una sensación de peligro y suspenso. Los gráficos realistas y la ambientación sonora te mantendrán en vilo en todo momento.
-Puzzles: Supera una variedad de puzzles inteligentes y desafiantes que pondrán a prueba tu ingenio y tu capacidad para resolver acertijos. encuentra objetos ocultos y desbloquea pasadizos secretos mientras te adentras más y más en el laberinto.
-Narrativa: 
-Desde la mismisima penumbra emergue nuestro personaje el cual debera recuperar su alma encapsulada en una estatua , sin embargo ¿Porque se encuentra ahi? ¿Realmente sera capaz de escapar?
-¿Quien lo puesto en ese lugar? la historia que cuenta purgatory debe ser escuchada ya que tiene mucho que contar 
-Exploración Profunda: Explora cada rincón del laberinto en busca de pistas y objetos que te ayuden a avanzar. Descubre pasadizos ocultos, habitaciones secretas y artefactos antiguos que revelarán la verdad detrás de tus pesadillas.</p>
+</p> !Bienvenido a EscapeChess¡
+Descripción del Juego:
+Escape Chess es un juego de aventura y desafios desarrollado en C# utilizando Unity. Inspirado en el clásico juego de ajedrez, Escape Chess transforma el tradicional tablero de ajedrez en un campo atraviesa lleno de desafíos y peligros donde el objetivo principal es lograr escapar
+Temática y Jugabilidad:
+En EscapeChess, el jugador asume el control de una Torre, una de las piezas más emblemáticas del ajedrez. Sin embargo, en lugar de participar en una partida tradicional, el jugador debe guiar a la Torre a través de un tablero de ajedrez laberíntico, evitando las amenazas y obstáculos representados por las demás piezas del ajedrez, cada una con sus movimientos y patrones.
+Objetivo:
+El objetivo principal del juego es escapar del tablero antes de ser capturado por las piezas enemigas. El jugador debe usar su ingenio y reflejos para esquivar y superar los desafíos que presentan las otras piezas.
+Ambientación Caracteristica:
+Un tablero de ajedrez tridimensional con piezas estilizadas y efectos visuales de camara para no perder la esencia del juego tradicional y elegancia del ajedrez clásico mientras aportan una atmósfera de tensión y aventura.
+Mecánicas de Movimiento y Evasión:
+Control intuitivo de la Torre con opciones de movimiento horizontal y vertical, permitiendo al jugador planificar sus rutas de escape mientras evita las rutas de ataque de las piezas enemigas.
+Ya sea que seas un aficionado al ajedrez o un amante de los juegos de acción y aventura, este juego te proporcionará un nivel divertido y desafiante ¿Estás listo para aceptar el reto y guiar a la Torre a su libertad?.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
