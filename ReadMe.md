@@ -62,7 +62,6 @@
   
 <br>
                                                                                                             
-<table>
   
 <td width="100%">
 <h3 align="center">Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
