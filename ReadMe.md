@@ -22,7 +22,7 @@
       <h3 align="center">Proximamente</h3>
       <div align="center" style="border:1px solid black; padding:10px;">
         <a href="www.linkedin.com/in/matiaszigalini" target="_blank">
-          <img src="https://imgur.com/uUuWWwO" width="400" alt="Coming Soon">
+          <img src="https://i.imgur.com/uUuWWwO.png" width="400" alt="Coming Soon">
         </a>
         <h1>Proximamente</h1>
       </div>
