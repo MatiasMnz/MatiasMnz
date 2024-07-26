@@ -82,9 +82,6 @@ Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
 <p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css </p>
   <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
   <p> Host: https://ropaproductores.netlify.app</p>
-
-<br>
-<td width="50%">
 <br>
 <h3 align="center">Escape Chess</h3>
 <div align="center">                                       
