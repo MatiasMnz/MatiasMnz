@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="https://i.imgur.com/0fkKvcr.png" alt="Descripción de la imagen">
+  <img src="https://i.imgur.com/gpYsaCJ.jpg" alt="Descripción de la imagen">
 </p>
 
 # 💫 About Me:
