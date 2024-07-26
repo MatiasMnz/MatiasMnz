@@ -19,10 +19,10 @@
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">Coming Soon</h3>
+      <h3 align="center">Proximamente</h3>
       <div align="center" style="border:1px solid black; padding:10px;">
         <a href="www.linkedin.com/in/matiaszigalini" target="_blank">
-          <img src="https://i.imgur.com/AUPnUIm.png" width="400" alt="Coming Soon">
+          <img src="https://imgur.com/a/JHO1VXS" width="400" alt="Coming Soon">
         </a>
         <h1>Proximamente</h1>
       </div>
