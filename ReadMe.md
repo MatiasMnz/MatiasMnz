@@ -72,7 +72,6 @@
   <p> Host: https://ropaproductores.netlify.app</p>
 </div>                                                             
 </table>                              
-<br>
 
 <table>                                                                                                                   
 </div>
