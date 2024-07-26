@@ -74,10 +74,6 @@
   <p> Host: https://ropaproductores.netlify.app</p>
 </div>                                                             
 </table>     
-        
-<p>Awaken </p>
-  <p> Codigo: https://github.com/MatiasMnz/Awaken.git</p>
-  <p> Gameplay Demostrativo: https://youtu.be/BbjqEK1nuDk </p>
-<br>
+
                                                
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
