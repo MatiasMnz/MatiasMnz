@@ -88,7 +88,6 @@ Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
   <p> Host: https://ropaproductores.netlify.app</p>
 <br>
 <tr>
-<td width="50%">
 <h3 align="center">Awaken</h3>
 <div align="center">
 <a href="https://github.com/MatiasMnz/Awaken.git" target="_blank"><img src="https://i.imgur.com/NKojE8j.png" width="400" alt="Awaken"></a>
