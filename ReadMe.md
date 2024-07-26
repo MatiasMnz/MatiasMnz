@@ -25,9 +25,6 @@
 <p> 
   <h1>Proximamente</h1>
 </p>
-</p>  
-<table>
-<tr>
 <td width="50%">
 <h3 align="center">RopaProductores</h3>
 <div align="center">
