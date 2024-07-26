@@ -15,7 +15,7 @@
 
 # 💻 Tech Stack:
  Data Analyst | Data Scientist | Estudiante De Ingenieria Informatica | Power BI | Python | SQL | Scikit-Learn | Pandas | Numpy | Inteligencia Artificial | AI | TensorFlow | IA | UMG | Data Engineer | NumPy | Train-Test Split | Keras | TensorFlow | DecisionTreeRegressor | Behavior Tree | GridSearchCV
-
+## Trabajos
 <table>                                                                                                                   
 </div>
 <td width="50%">
@@ -25,10 +25,7 @@
 <p> 
   <h1>Proximamente</h1>
 </p>
-</p>
-</div> 
-                                                                  
-## Trabajos
+</p>  
 <table>
 <tr>
 <td width="50%">
