@@ -73,7 +73,10 @@ Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
 <p>En este trabajo de Data Analytics, exploramos en profundidad las exportaciones de granos de soja en tres países clave: Argentina, Paraguay y Uruguay. Utilizando herramientas de SQL y Power BI, examinamos detalladamente los patrones, tendencias y factores clave que influyen en el comercio de la soja en la región. Desde la extracción y transformación de datos en SQL hasta la visualización interactiva en Power BI</p>
   <p>https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git</p>
 </div>
-                                                                                      <td width="50%">
+  </div>                                                             
+</table>                                                                                 
+</div>
+ <td width="50%">
 <h3 align="center">RopaProductores</h3>
 <div align="center">
 <a href=""https://github.com/MatiasMnz/RopaProductores.git" target="_blank"><img src="https://i.imgur.com/uErKdgH.png" width="400" alt="RopaProductores"></a>
