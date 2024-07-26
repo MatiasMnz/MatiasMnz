@@ -75,6 +75,7 @@ Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
 </div>                                                            
 </table>                                                                                 
 </div>
+</table> 
  <td width="50%">
 <h3 align="center">RopaProductores</h3>
 <div align="center">
@@ -102,6 +103,7 @@ Un tablero de ajedrez tridimensional con piezas estilizadas y efectos visuales d
 Mecánicas de Movimiento y Evasión:
 Control intuitivo de la Torre con opciones de movimiento horizontal y vertical, permitiendo al jugador planificar sus rutas de escape mientras evita las rutas de ataque de las piezas enemigas.
 Ya sea que seas un aficionado al ajedrez o un amante de los juegos de acción y aventura, este juego te proporcionará un nivel divertido y desafiante ¿Estás listo para aceptar el reto y guiar a la Torre a su libertad?.</p>
+</table> 
 </div>                                                             
 </table>                                                                                 
 </div>
