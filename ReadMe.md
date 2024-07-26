@@ -74,8 +74,6 @@ Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
   <p>https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git</p>
 </div>                                                            
 </table>                                                                                 
-</div>                                                             
-</table>                                                                                 
 </div>
 <br>
 <table>
