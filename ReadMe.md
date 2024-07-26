@@ -72,54 +72,25 @@ Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
 <a href=""https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git"><img src="https://i.imgur.com/B6sQaTC.png" width="400" alt="Exportaciones"></a>
 <p>En este trabajo de Data Analytics, exploramos en profundidad las exportaciones de granos de soja en tres países clave: Argentina, Paraguay y Uruguay. Utilizando herramientas de SQL y Power BI, examinamos detalladamente los patrones, tendencias y factores clave que influyen en el comercio de la soja en la región. Desde la extracción y transformación de datos en SQL hasta la visualización interactiva en Power BI</p>
   <p>https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git</p>
-</div>                                                            
-</table>                                                                                 
+<table>                                                                                                                   
 </div>
-<br>
-<table>
-
-<h3 align="center">Awaken</h3>
+<td width="50%">
+<h3 align="center">Coming Soon</h3>
 <div align="center">
-<a href="https://github.com/MatiasMnz/Awaken.git" target="_blank"><img src="https://i.imgur.com/NKojE8j.png" width="400" alt="Awaken"></a>
-<p>Awaken </p>
-  <p> Codigo: https://github.com/MatiasMnz/Awaken.git</p>
-  <p> Gameplay Demostrativo: https://youtu.be/BbjqEK1nuDk </p>
-<br>
-<tr>
-¡Bienvenido a Awaken!
-
-Awaken te hara encarnar a un soldado robot el cual esta encargado de liberar una base secreta luego de que se hubiera perdido la comucacion con todo un peloton, sin embargo al llegar a ella es peor de lo que esperabas ya que otros como tu la han tomado y te tocara desvelar el porque, Desarrollado con Unreal Engine 5 y escrito en C++, este juego ofrece una experiencia de combate intensa y llena de acción que te dejará sin aliento.
-Características principales:
-Combate Robótico en Tercera Persona: Embarcate en una guerra robotica sin cuartel. Utiliza tus habilidades como super soldado para poder enfrentarte a todos aquellos que se crucen en tu camino
-Enemigos Controlados por IA Avanzada: Enfréntate a una variedad de enemigos robóticos con comportamientos y tácticas gracias a un sistema de IA que les permite adaptarse dinámicamente a tu estilo de juego. Prepárate para enfrentarte a enemigos inteligentes y despiadados que te pondrán a prueba en cada encuentro.
-Ambientes Futuristas y Detalles Realistas: Gracias al haber sido desarrolado en Unreal Engine podras disfrutar de vistas agradables debido a su alta calidad grafica</p>
->
-</table>                                                                                 
-</div>
-<br>
-<table>
+<a href="www.linkedin.com/in/matiaszigalini" target="_blank"><img src="https://i.imgur.com/AUPnUIm.png" width="400" alt="Coming Soon"></a>
+<p> 
+  <h1>Proximamente</h1>
+</p>
 <td width="50%">
                <br>
-<h3 align="center">Purgatory</h3>
+<h3 align="center">Data Science-VideoJuego-Pokemon</h3>
 <div align="center">                                       
-<a href="https://github.com/MatiasMnz/Purgatory.git" target="_blank"><img src="https://i.imgur.com/lLKUYRt.png" width="400" alt="Purgatory"></a>
+<a href="https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git" target="_blank"><img src="https://i.imgur.com/WNzCoNj.png" width="400" alt="Data Science"></a>
 <br>
-<p> Codigo: https://github.com/MatiasMnz/Purgatory.git </p>
-</p> Gameplay Demostrativo: https://youtu.be/Q-1NZiWAgoU </p>
-</p> ¡Bienvenido a Purgatory!
-Purgatory es un escalofriante juego de puzzles de terror que te sumerge en una prision siniestra llena de peligros y pasadisos secretos, Desarrollado con Unreal Engine 5 y escrito en C++, este juego te desafiará a explorar los recovecos más profundos de tu mente mientras intentas recuperar tu alma y salir desde la mismisima penumbra.
-Características principales Generales:
-Atmósfera Inmersiva de Terror: Adentrate en esta prision llena de vestigios de oscuros sucesos, donde cada rincón está impregnado de una sensación de peligro y suspenso. Los gráficos realistas y la ambientación sonora te mantendrán en vilo en todo momento.
-Puzzles: Supera una variedad de puzzles inteligentes y desafiantes que pondrán a prueba tu ingenio y tu capacidad para resolver acertijos. encuentra objetos ocultos y desbloquea pasadizos secretos mientras te adentras más y más en el laberinto.
-Narrativa: 
-Desde la mismisima penumbra emergue nuestro personaje el cual debera recuperar su alma encapsulada en una estatua , sin embargo ¿Porque se encuentra ahi? ¿Realmente sera capaz de escapar?
-¿Quien lo puesto en ese lugar? la historia que cuenta purgatory debe ser escuchada ya que tiene mucho que contar 
-Exploración Profunda: Explora cada rincón del laberinto en busca de pistas y objetos que te ayuden a avanzar. Descubre pasadizos ocultos, habitaciones secretas y artefactos antiguos que revelarán la verdad detrás de tus pesadillas.</p>
+</p>En este trabajo nuestro objetivo principal fue utilizar técnicas avanzadas de análisis de datos, aprendizaje automático y visualización para obtener valiosos conocimientos sobre los Pokémon y descubrir estrategias efectivas para vencer a los oponentes en el juego, A lo largo de este proceso, exploramos detalladamente un conjunto de datos completo de Pokémon, donde nos enfocamos en aspectos clave como las estadísticas de los Pokémon, su distribución, correlaciones y características distintivas, una de las ideas adicionales de este trabajo es demostrar la potencia y versatilidad de la Ciencia de Datos aplicada a un entorno de entretenimiento, mostrando cómo esta disciplina puede llevarnos a superar obstáculos y alcanzar nuevas metas en cualquier ámbito de la vida moderna </p>
+  </p>https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git</p>
 </div>                                                             
-</table>                                                                                 
-</div>
-<br>
-<table>
+</table>                           
 <tr>
 <td width="50%">
 <h3 align="center">Castel Wars</h3>
