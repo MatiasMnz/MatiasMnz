@@ -61,9 +61,9 @@
 </table>   
   
 <br>
-</table>                                                                                                              
-</div>
-</table>  
+                                                                                                            
+
+  
 <td width="100%">
 <h3 align="center">Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
 <div align="center">
@@ -73,6 +73,6 @@
   <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
   <p> Host: https://ropaproductores.netlify.app</p>
 
-</table>  
+
                                                
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
