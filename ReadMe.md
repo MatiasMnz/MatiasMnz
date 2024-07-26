@@ -34,8 +34,10 @@
 </p>En este trabajo nuestro objetivo principal fue utilizar técnicas avanzadas de análisis de datos, aprendizaje automático y visualización para obtener valiosos conocimientos sobre los Pokémon y descubrir estrategias efectivas para vencer a los oponentes en el juego, A lo largo de este proceso, exploramos detalladamente un conjunto de datos completo de Pokémon, donde nos enfocamos en aspectos clave como las estadísticas de los Pokémon, su distribución, correlaciones y características distintivas, una de las ideas adicionales de este trabajo es demostrar la potencia y versatilidad de la Ciencia de Datos aplicada a un entorno de entretenimiento, mostrando cómo esta disciplina puede llevarnos a superar obstáculos y alcanzar nuevas metas en cualquier ámbito de la vida moderna </p>
   </p>https://github.com/MatiasMnz/Trabajo-Completo-Data-Science-Videojuego.git</p>
 </div>                                                             
-</table>                                                                                 
+</table>  
+  
 <br>
+
 <table>
 </div>  
 <table>                                                                                                                   
@@ -56,8 +58,10 @@
 </p>En este trabajo, llevamos a cabo un análisis integral de datos empresariales utilizando metodologías avanzadas de Data Science, aprendizaje automático y visualización. Nuestro objetivo central consistió en desvelar patrones e ideas fundamentales dentro de datos financieros de empresas Fortune 500, además de idear enfoques estratégicos para orientar decisiones informadas. A lo largo de este proceso, exploramos a fondo un extenso y detallado conjunto de datos, focalizándonos en aspectos críticos como las relaciones entre los ingresos, beneficios y el valor de mercado, así como la influencia de CEOs femeninas en distintos sectores. Este trabajo resalta el poder transformador del Data Science en la comprensión y dirección de dinámicas empresariales complejas, evidenciando su capacidad para guiar estratégicamente y ofrecer nuevos horizontes de exploración en el contexto empresarial actual.</p>
 </p>https://github.com/MatiasMnz/Data-Science-Fortune500Company.git</p>
 </div>                                                             
-</table>                                                                                 
+</table>   
+  
 <br>
+
 <table>
 </div>  
 <table>                                                                                                                   
