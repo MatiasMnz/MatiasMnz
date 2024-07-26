@@ -62,8 +62,6 @@
   
 <br>
 
-<table>
-</div>  
 <table>                                                                                                                   
 </div>
 <td width="50%">
