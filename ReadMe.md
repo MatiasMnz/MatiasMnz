@@ -71,7 +71,7 @@
       <h3 align="center">Exportaciones Granos De Soja-Argentina, Uruguay, Paraguay</h3>
       <div align="center" style="border:1px solid black; padding:1000px;">
         <a href="https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git" target="_blank">
-          <img src="https://i.imgur.com/B6sQaTC.png" width="500" height= "1000" alt="Exportaciones">
+          <img src="https://i.imgur.com/B6sQaTC.png" width="1000" height= "100" alt="Exportaciones">
         </a>
         <p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css</p>
         <p>Codigo: <a href="https://github.com/MatiasMnz/RopaProductores.git">https://github.com/MatiasMnz/RopaProductores.git</a></p>
