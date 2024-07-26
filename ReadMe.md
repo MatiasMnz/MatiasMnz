@@ -71,11 +71,11 @@
       <h3 align="center">Exportaciones Granos De Soja-Argentina, Uruguay, Paraguay</h3>
       <div align="center" style="border:1px solid black; padding:10px;">
         <a href="https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git" target="_blank">
-          <img src="https://i.imgur.com/B6sQaTC.png" width="800" alt="Exportaciones">
+          <img src="https://i.imgur.com/B6sQaTC.png" width="400" alt="Exportaciones">
         </a>
-        <p>Pagina Web sobre venta de ropa deportiva realizada en Html y Css</p>
-        <p>Codigo: <a href="https://github.com/MatiasMnz/RopaProductores.git">https://github.com/MatiasMnz/RopaProductores.git</a></p>
-        <p>Host: <a href="https://ropaproductores.netlify.app">https://ropaproductores.netlify.app</a></p>
+       <p>En este trabajo, llevamos a cabo un análisis integral de datos empresariales utilizando metodologías avanzadas de Data Analytics y Power Bi para las visualizaciones. Nuestro objetivo central consistió en dar un detalle avanzado de lo conseguido en el tiempo y revelar un claro muestrario que contenga informacion precisa y util a la hora de realizar un 
+          analisis de mercado mas profundo, además de resultar util para develar enfoques estratégicos para orientar decisiones informadas.</p>
+        <p><a href="https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git">https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git</a></p>
       </div>
     </td>
   </tr>
