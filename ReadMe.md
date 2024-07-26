@@ -72,6 +72,6 @@
   <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
   <p> Host: https://ropaproductores.netlify.app</p>
 
-
+</table>  
                                                
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
