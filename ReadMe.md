@@ -71,8 +71,9 @@
   <p> Codigo: https://github.com/MatiasMnz/RopaProductores.git</p>
   <p> Host: https://ropaproductores.netlify.app</p>
 </div>                                                             
-</table>                              
-                                                                                                                  
+</table>     
+  
+</table>                                                                                                                  
 </div>
 <td width="50%">
 <h3 align="center">RopaProductores</h3>
