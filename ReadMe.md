@@ -72,8 +72,7 @@
   <p> Host: https://ropaproductores.netlify.app</p>
 </div>                                                             
 </table>                              
-
-<table>                                                                                                                   
+                                                                                                                  
 </div>
 <td width="50%">
 <h3 align="center">RopaProductores</h3>
