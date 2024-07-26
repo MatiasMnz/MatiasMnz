@@ -95,14 +95,7 @@ Características principales:
 Combate Robótico en Tercera Persona: Embarcate en una guerra robotica sin cuartel. Utiliza tus habilidades como super soldado para poder enfrentarte a todos aquellos que se crucen en tu camino
 Enemigos Controlados por IA Avanzada: Enfréntate a una variedad de enemigos robóticos con comportamientos y tácticas gracias a un sistema de IA que les permite adaptarse dinámicamente a tu estilo de juego. Prepárate para enfrentarte a enemigos inteligentes y despiadados que te pondrán a prueba en cada encuentro.
 Ambientes Futuristas y Detalles Realistas: Gracias al haber sido desarrolado en Unreal Engine podras disfrutar de vistas agradables debido a su alta calidad grafica</p>
-</div>                                                     
-</table>                                                                                 
-</div>                                                             
-</table>                                                                                 
-</div>
-<br>
-<table>                                                                                      
-</td>
+>
 
 <td width="50%">
                <br>
