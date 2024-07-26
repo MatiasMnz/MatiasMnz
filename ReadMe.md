@@ -61,10 +61,10 @@
 </table>   
   
 <br>
-                                                                                                            
+</table>                                                                                                              
 </div>
 </table>  
-<td width="50%">
+<td width="100%">
 <h3 align="center">Exportaciones Granos De Soja-Argentina,Uruguay,Paraguay</h3>
 <div align="center">
 <a href="https://github.com/MatiasMnz/ExportacionesGranosDeSoja-AnalisisBI-Zigalini.git" target="_blank"><img src="https://i.imgur.com/B6sQaTC.png" width="400" alt="Exportaciones"></a>
