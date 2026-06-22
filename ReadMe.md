@@ -13,8 +13,7 @@
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matyzigalini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiaszigalini)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCwxLzub9fLh6FW43DAsbDjg) 
-
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matyzigalini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiaszigalini)
 # 💻 Tech Stack:
 Data Engineer | AWS | AWS Glue | Amazon S3 | Athena | PySpark | Apache Spark | Apache Iceberg | Lambda | Step Functions | SQL | Terraform | Data Lakehouse | Big Data | Apache NiFi | BigQuery | Lake Formation | EventBridge | Data Catalog | Hadoop | Hive | Teradata | Power BI
 ## Trabajos
