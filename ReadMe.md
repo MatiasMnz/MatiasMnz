@@ -7,14 +7,16 @@
 </p>
 
 # 💫 About Me:
-👨‍💻I am a young and enthusiastic data analyst and data scientist, always looking to learn something new every day. I am interested in artificial intelligence, new technologies and their technologies and their implication in modern life <br><br>🌐 Soy un joven y entusiasta analista y cientifico de datos,siempre buscando aprender algo nuevo cada día. Me interesan inteligencia artificial, las nuevas tecnologías y su tecnologías y su implicación en la vida moderna..<br><br>
+👨‍💻 Data Engineer with experience designing, developing and maintaining cloud-based data platforms. Specialized in building end-to-end data pipelines, Data Lakehouse architectures and analytics solutions on AWS using technologies such as AWS Glue, Amazon S3, Athena, Apache Iceberg, PySpark and Terraform.
+
+🌐 Ingeniero de Datos con experiencia en el diseño, desarrollo y mantenimiento de plataformas de datos en la nube. Especializado en la construcción de pipelines end-to-end, arquitecturas Data Lakehouse y soluciones analíticas sobre AWS utilizando tecnologías como AWS Glue, Amazon S3, Athena, Apache Iceberg, PySpark y Terraform.
 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matyzigalini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiaszigalini)  [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCwxLzub9fLh6FW43DAsbDjg) 
 
 # 💻 Tech Stack:
- Data Analyst | Data Scientist | Estudiante De Ingenieria Informatica | Power BI | Python | SQL | Scikit-Learn | Pandas | Numpy | Inteligencia Artificial | AI | TensorFlow | IA | UMG | Data Engineer | NumPy | Train-Test Split | Keras | TensorFlow | DecisionTreeRegressor | Behavior Tree | GridSearchCV
+Data Engineer | AWS | AWS Glue | Amazon S3 | Athena | PySpark | Apache Spark | Apache Iceberg | Lambda | Step Functions | SQL | Terraform | Data Lakehouse | Big Data | Apache NiFi | BigQuery | Lake Formation | EventBridge | Data Catalog | Hadoop | Hive | Teradata | Power BI
 ## Trabajos
 <table>
   <tr>
