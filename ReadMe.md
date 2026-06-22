@@ -6,13 +6,13 @@
   <img src="https://i.imgur.com/NeT7r0w.png" alt="Descripción de la imagen">
 </p>
 
-# 💫 About Me:
+# 💫 Sobre mi:
 👨‍💻 Data Engineer with experience designing, developing and maintaining cloud-based data platforms. Specialized in building end-to-end data pipelines, Data Lakehouse architectures and analytics solutions on AWS using technologies such as AWS Glue, Amazon S3, Athena, Apache Iceberg, PySpark and Terraform.
 
 🌐 Ingeniero de Datos con experiencia en el diseño, desarrollo y mantenimiento de plataformas de datos en la nube. Especializado en la construcción de pipelines end-to-end, arquitecturas Data Lakehouse y soluciones analíticas sobre AWS utilizando tecnologías como AWS Glue, Amazon S3, Athena, Apache Iceberg, PySpark y Terraform.
 
 
-## 🌐 Socials:
+## 🌐 Redes:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/matyzigalini) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/matiaszigalini)
 # 💻 Tech Stack:
 Data Engineer | AWS | AWS Glue | Amazon S3 | Athena | PySpark | Apache Spark | Apache Iceberg | Lambda | Step Functions | SQL | Terraform | Data Lakehouse | Big Data | Apache NiFi | BigQuery | Lake Formation | EventBridge | Data Catalog | Hadoop | Hive | Teradata | Power BI
